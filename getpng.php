@@ -1,7 +1,8 @@
 <?php
 /**
-* Validate the input with a captcha
-*
+* Class that creates a png image out of a string.
+* This will be then used to validate the input.
+* 
 */
 
 class Getpng {
