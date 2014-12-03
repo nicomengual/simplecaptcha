@@ -9,7 +9,7 @@ if ($_POST['send']]) {
 ?>
 <html>
 <body>
-<img src="validate_captcha.php"><br />
+<img src="getpng.php"><br />
 <form name="test1" method="post" action="">
         <input type="text" name="captcha">
         <input type="submit" name="send">
